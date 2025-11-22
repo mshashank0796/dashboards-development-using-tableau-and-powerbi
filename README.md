@@ -30,8 +30,4 @@ This dashboard visualization was based on Life Insurance data.In this dashboard 
 
 Contributions are always welcome!
 
-Please See `contributing.md` for ways to get started.
-
-## Support
-
-For any queries or support, please contact me on sivamsingh@gmail.com 
+Please See `contributing.md` for ways to get started
